@@ -12,7 +12,7 @@ na tela uma das mensagens abaixo:
 
 int main ()
 {
-  int a, b, c;
+  int a, b;
   printf ("Digite 2 números:\n");
   scanf ("%d%d", &a, &b);
   if (a > b)
