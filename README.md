@@ -2,3 +2,4 @@
 
 
 Lista de exercícios baseada em exercícios desenvolvidos pelo Prof. Gustavo Guanabara para o curso de algoritimos.
+Exercícios feitos na linguagem C.
