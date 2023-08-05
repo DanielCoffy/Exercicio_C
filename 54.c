@@ -1,11 +1,11 @@
 /******************************************************************************
 
-Faça um programa que leia a idade e o sexo de 5 pessoas, mostrando no final:
-a) Quantos homens foram cadastrados
-b) Quantas mulheres foram cadastradas
-c) A média de idade do grupo
-d) A média de idade dos homens
-e) Quantas mulheres tem mais de 20 anos
+Desenvolva um aplicativo que leia o peso e a altura de 7 pessoas, mostrando 
+no final:
+a) Qual foi a média de altura do grupo
+b) Quantas pessoas pesam mais de 90Kg
+c) Quantas pessoas que pesam menos de 50Kg tem menos de 1.60m
+d) Quantas pessoas que medem mais de 1.90m pesam mais de 100Kg.
 
 *******************************************************************************/
 
